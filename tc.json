@@ -1,0 +1,27 @@
+{
+    "x": [0,1,5
+    ],
+    "data": [
+        {
+            "y": [1,2,40
+            ],
+            "mode": "lines+markers"
+        }
+    ],
+    "layout": {
+        "xaxis": {
+            "title": {
+                "text": "Real Time Trial Completed"
+            }
+        },
+        "yaxis": {
+            "title": {
+                "text": "Score"
+            },
+            "rangemode": "tozero"
+        }
+    },
+    "attrz": {
+        "trials complete": 0
+    }
+}
